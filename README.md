@@ -12,5 +12,6 @@
 3. [单链表1](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E5%8D%95%E9%93%BE%E8%A1%A81.md)
 4. [单链表2](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E9%93%BE%E8%A1%A81.md)
 5. [循环链表](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8.md)
+6. [栈-括号匹配](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E6%A0%88-%E6%8B%AC%E5%8F%B7%E5%8C%B9%E9%85%8D.md)
 
 >有问题点这里：[Issues](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/issues)
