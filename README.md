@@ -16,5 +16,6 @@
 7. [栈-合法性检查](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E6%A0%88-%E5%90%88%E6%B3%95%E6%80%A7%E6%A3%80%E6%9F%A5.md)
 8. [递归-诺汉塔](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E9%80%92%E5%BD%92-%E8%AF%BA%E6%B1%89%E5%A1%94.md)
 9. [二叉树-先序遍历（递归+非递归）](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E4%BA%8C%E5%8F%89%E6%A0%91-%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%EF%BC%88%E9%80%92%E5%BD%92+%E9%9D%9E%E9%80%92%E5%BD%92%EF%BC%89.md)
+10. [二叉树-中序遍历（递归+非递归）](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/blob/master/art./%E4%BA%8C%E5%8F%89%E6%A0%91-%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%EF%BC%88%E9%80%92%E5%BD%92+%E9%9D%9E%E9%80%92%E5%BD%92%EF%BC%89.md)
 
 >有问题点这里：[Issues](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/issues)
