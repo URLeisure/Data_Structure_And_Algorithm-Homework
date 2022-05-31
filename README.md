@@ -1,6 +1,7 @@
  :point_right: 超星作业，不保证正确。
 
-* 文档在 [art.](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/tree/master/art.) 文件夹中,也可以直接点👇目录
+* 文档在 [art.](https://gitee.com/urleisure/data_-structure_-and_-algorithm-homework/tree/master/art.) 文件夹中
+* 也可以直接点👇
 * 仅供参考，切勿照搬
 
 ---------------------------------------------
